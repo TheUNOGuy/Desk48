@@ -1,1 +1,1 @@
-{ "link": "https://github.com/TheUNOGuy/Pydle-game/raw/main/source.zip", "version": "1.0.0" }
+{ "link": "https://github.com/TheUNOGuy/Pydle-game/raw/main/source.zip", "version": "1.0.0", size = "296018255" }
