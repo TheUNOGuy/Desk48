@@ -1,1 +1,1 @@
-{ "link": "https://www.learningcontainer.com/wp-content/uploads/2020/05/sample-large-zip-file.zip", "version": "1.0.0", "size": "5216156" }
+{ "link": "https://file-examples.com/storage/fe2c6a327f625d58da0d54d/2017/02/zip_10MB.zip", "version": "1.0.0", "size": "10679630" }
