@@ -1,1 +1,1 @@
-{ "link": "https://file-examples.com/storage/fe2c6a327f625d58da0d54d/2017/02/zip_10MB.zip", "version": "1.0.0", "size": "10679630" }
+{ "link": ""https://drive.google.com/uc?id=1uDa6MvWw33NmwnSsYZ_csRTIQaFxpaEO"", "version": "1.0.0", "size": "10679630" }
